@@ -1,0 +1,18 @@
+{
+  "name": "php-gulp-generator",
+  "version": "1.0.0",
+  "description": "PHP Code to generate and process SCSS/JS",
+  "author": "khoipro",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/khoipro/php-gulp-generator"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1"
+  }
+}
